@@ -15,7 +15,7 @@ const seoH1BySlug: Record<string, string> = {
   "renovatie-inrichting-alhaurin-el-grande": "Renovatie en inrichting in Alhaurín el Grande",
   "kosten-verhuurbeheer-alhaurin-el-grande": "Wat kost verhuurbeheer in Alhaurín el Grande?",
   "dynamische-prijzen-vakantiewoning":
-    "Dynamische prijzen voor een vakantiewoning in Alhaurín el Grande",
+    "Rendement vakantiewoning in Alhaurín el Grande met dynamische prijzen",
   "zelf-verhuren-of-verhuurbeheer":
     "Zelf verhuren of verhuurbeheer in Alhaurín el Grande?",
   "verhuurlicentie-alhaurin-el-grande":
