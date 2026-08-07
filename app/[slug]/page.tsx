@@ -131,6 +131,7 @@ const relatedBySlug: Record<string, string[]> = {
     "verhuurlicentie-alhaurin-el-grande",
     "kosten-verhuurbeheer-alhaurin-el-grande",
     "dynamische-prijzen-vakantiewoning",
+    "vastgoedbeheer-alhaurin-el-grande",
   ],
   "vastgoedbeheer-alhaurin-el-grande": [
     "schoonmaak-onderhoud-alhaurin-el-grande",
@@ -156,11 +157,32 @@ const relatedBySlug: Record<string, string[]> = {
     "vakantieverhuur-alhaurin-el-grande",
     "midterm-verhuur-alhaurin-el-grande",
     "langetermijnverhuur-alhaurin-el-grande",
+    "dynamische-prijzen-vakantiewoning",
   ],
   "dynamische-prijzen-vakantiewoning": [
     "vakantieverhuur-alhaurin-el-grande",
     "kosten-verhuurbeheer-alhaurin-el-grande",
     "zelf-verhuren-of-verhuurbeheer",
+  ],
+  "zelf-verhuren-of-verhuurbeheer": [
+    "vakantieverhuur-alhaurin-el-grande",
+    "vastgoedbeheer-alhaurin-el-grande",
+    "kosten-verhuurbeheer-alhaurin-el-grande",
+  ],
+  "schoonmaak-onderhoud-alhaurin-el-grande": [
+    "vastgoedbeheer-alhaurin-el-grande",
+    "vakantieverhuur-alhaurin-el-grande",
+    "renovatie-inrichting-alhaurin-el-grande",
+  ],
+  "renovatie-inrichting-alhaurin-el-grande": [
+    "vastgoedbeheer-alhaurin-el-grande",
+    "schoonmaak-onderhoud-alhaurin-el-grande",
+    "vakantieverhuur-alhaurin-el-grande",
+  ],
+  "werkwijze": [
+    "vakantieverhuur-alhaurin-el-grande",
+    "vastgoedbeheer-alhaurin-el-grande",
+    "kosten-verhuurbeheer-alhaurin-el-grande",
   ],
 };
 
