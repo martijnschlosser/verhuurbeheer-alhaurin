@@ -55,6 +55,8 @@ export const siteConfig = {
       "woningbeheer Alhaurín el Grande",
       "vakantiewoning verhuren Alhaurín el Grande",
       "Airbnb beheer Alhaurín el Grande",
+      "Nederlandse verhuurmakelaar Alhaurín el Grande",
+      "sleutelbeheer Alhaurín el Grande",
       "verhuurlicentie Alhaurín el Grande",
       "finca verhuren Alhaurín el Grande",
       "villa verhuren Alhaurín el Grande",
