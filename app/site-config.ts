@@ -4,7 +4,7 @@ export const siteConfig = {
     citySlug: "alhaurin-el-grande",
     leadPath: "/woning-aanmelden/",
     thankYouPath: "/bedankt/",
-    sourceWebsite: "verhuurbeheeralhaurin.nl",
+    sourceWebsite: "verhuurbeheeralhaurinelgrande.nl",
   },
   brand: {
     name: "Verhuurbeheer Alhaurín el Grande",
@@ -30,7 +30,7 @@ export const siteConfig = {
     social: "/luxe-woning-alhaurin-el-grande-zeezicht.webp",
     signup: "/zonnig-terras-zeezicht-alhaurin-el-grande.webp",
   },
-  domain: "https://verhuurbeheeralhaurin.nl",
+  domain: "https://verhuurbeheeralhaurinelgrande.nl",
   contact: {
     email: "contact@verhuurbeheerspanje.nl",
     whatsapp: "31852128105",
