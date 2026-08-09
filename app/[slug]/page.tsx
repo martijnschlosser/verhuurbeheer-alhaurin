@@ -46,7 +46,7 @@ const team = [
     name: "Sophie",
     role: "Backoffice",
     languages: "NL · EN · ES",
-    image: "/sophie-alhaurin-el-grande.webp",
+    image: siteConfig.assets.sophie,
     alt: "Sophie, Nederlandstalig aanspreekpunt en backoffice bij Verhuurbeheer Spanje",
   },
   {
@@ -185,6 +185,13 @@ const relatedBySlug: Record<string, string[]> = {
     "kosten-verhuurbeheer-alhaurin-el-grande",
   ],
 };
+
+Object.assign(relatedBySlug, {
+  "finca-beheren-op-afstand-alhaurin-el-grande": ["villa-verhuren-alhaurin-el-grande","tweede-woning-beheer-alhaurin-el-grande","vastgoedbeheer-alhaurin-el-grande","kosten-verhuurbeheer-alhaurin-el-grande","zelf-verhuren-of-verhuurbeheer"],
+  "villa-verhuren-alhaurin-el-grande": ["finca-beheren-op-afstand-alhaurin-el-grande","tweede-woning-beheer-alhaurin-el-grande","vastgoedbeheer-alhaurin-el-grande","kosten-verhuurbeheer-alhaurin-el-grande","zelf-verhuren-of-verhuurbeheer"],
+  "tweede-woning-beheer-alhaurin-el-grande": ["finca-beheren-op-afstand-alhaurin-el-grande","villa-verhuren-alhaurin-el-grande","vastgoedbeheer-alhaurin-el-grande","kosten-verhuurbeheer-alhaurin-el-grande","zelf-verhuren-of-verhuurbeheer"],
+  "vastgoedbeheer-alhaurin-el-grande": ["finca-beheren-op-afstand-alhaurin-el-grande","villa-verhuren-alhaurin-el-grande","tweede-woning-beheer-alhaurin-el-grande","kosten-verhuurbeheer-alhaurin-el-grande","zelf-verhuren-of-verhuurbeheer"],
+});
 
 const contentVisualBySlug: Record<string, { src: string; alt: string }> = {
   "vakantieverhuur-alhaurin-el-grande": {
@@ -842,7 +849,7 @@ export default async function ContentRoute({
         <section className="blog-lead">
           <div className="blog-lead-person">
             <img
-              src="/sophie-alhaurin-el-grande.webp"
+              src={siteConfig.assets.sophie}
               alt="Sophie van Verhuurbeheer Alhaurín el Grande"
               width={1088}
               height={1100}
