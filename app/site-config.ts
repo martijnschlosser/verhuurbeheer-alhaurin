@@ -29,6 +29,7 @@ export const siteConfig = {
     hero: "/alhaurin-el-grande-hero.webp",
     social: "/luxe-woning-alhaurin-el-grande-zeezicht.webp",
     signup: "/zonnig-terras-zeezicht-alhaurin-el-grande.webp",
+    sophie: "/sophie-alhaurin-el-grande.webp",
   },
   domain: "https://verhuurbeheeralhaurinelgrande.nl",
   contact: {
