@@ -193,6 +193,13 @@ Object.assign(relatedBySlug, {
   "vastgoedbeheer-alhaurin-el-grande": ["finca-beheren-op-afstand-alhaurin-el-grande","villa-verhuren-alhaurin-el-grande","tweede-woning-beheer-alhaurin-el-grande","kosten-verhuurbeheer-alhaurin-el-grande","zelf-verhuren-of-verhuurbeheer"],
 });
 
+Object.assign(relatedBySlug, {
+  "finca-tuin-zwembad-controle-alhaurin-el-grande": ["vastgoedbeheer-alhaurin-el-grande","tweede-woning-beheer-alhaurin-el-grande","schoonmaak-onderhoud-alhaurin-el-grande","finca-beheren-op-afstand-alhaurin-el-grande","kosten-verhuurbeheer-alhaurin-el-grande"],
+  "vastgoedbeheer-alhaurin-el-grande": ["finca-tuin-zwembad-controle-alhaurin-el-grande", ...(relatedBySlug["vastgoedbeheer-alhaurin-el-grande"] ?? []).filter((slug) => slug !== "finca-tuin-zwembad-controle-alhaurin-el-grande")].slice(0, 6),
+  "tweede-woning-beheer-alhaurin-el-grande": ["finca-tuin-zwembad-controle-alhaurin-el-grande", ...(relatedBySlug["tweede-woning-beheer-alhaurin-el-grande"] ?? []).filter((slug) => slug !== "finca-tuin-zwembad-controle-alhaurin-el-grande")].slice(0, 6),
+  "schoonmaak-onderhoud-alhaurin-el-grande": ["finca-tuin-zwembad-controle-alhaurin-el-grande", ...(relatedBySlug["schoonmaak-onderhoud-alhaurin-el-grande"] ?? []).filter((slug) => slug !== "finca-tuin-zwembad-controle-alhaurin-el-grande")].slice(0, 6),
+});
+
 const contentVisualBySlug: Record<string, { src: string; alt: string }> = {
   "vakantieverhuur-alhaurin-el-grande": {
     src: "/luxe-woning-alhaurin-el-grande-zeezicht.webp",
