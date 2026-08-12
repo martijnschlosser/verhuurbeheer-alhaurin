@@ -27,6 +27,73 @@ export const contentPages:ContentPage[]=[
 ,
 {"slug":"finca-beheren-op-afstand-alhaurin-el-grande","type":"gids","eyebrow":"Praktische gids voor eigenaren","title":"Een finca in Alhaurín el Grande op afstand beheren","seoTitle":"Finca beheer Alhaurín el Grande | Beheer op afstand","description":"Finca in Alhaurín el Grande beheren vanuit Nederland? Lees over toegangsbeheer, controles, terrein, installaties en lokale onderhoudscoördinatie.","intro":"Een finca vraagt een ander beheerproces dan een appartement aan de kust. De afstand tot buren, buitenruimte, toegangspoort, water- en elektrische installaties en meerdere leveranciers maken een duidelijk lokaal overzicht extra belangrijk.","sections":[{"title":"Maak een objectkaart van woning én terrein","paragraphs":["Leg vast waar hoofdafsluiters, meterkasten, pompen, poorten, sleutels en technische ruimtes zich bevinden. Noteer ook welke onderdelen alleen door een specialist mogen worden bediend.","Rond Alhaurín el Grande, Villafranco del Guadalhorce en richting Coín kunnen percelen en toegangswegen sterk verschillen. Zorg daarom dat een lokale beheerder en vaste leveranciers de juiste route en toegangsinstructies hebben."],"bullets":["Poort-, woning- en technische sleutels","Water- en stroompunten","Zwembad, pomp of irrigatie waar aanwezig","Contactgegevens van vaste uitvoerders"]},{"title":"Werk met een finca-specifieke controlelijst","paragraphs":["Een visuele woningcheck kijkt naar deuren, ramen, vochtsporen, lekkages en apparatuur. Buiten komen daar terrein, omheining, poort, afvoeren en zichtbare schade aan buitenvoorzieningen bij.","De frequentie hangt af van seizoen, voorzieningen en hoe lang de finca onbezet is. Spreek ook af welke bevindingen direct worden gemeld en welke in een periodieke rapportage kunnen worden gebundeld."]},{"title":"Coördineer leveranciers vanuit één planning","paragraphs":["Tuin-, zwembad-, schoonmaak- en technische werkzaamheden lopen al snel door elkaar. Eén planning voorkomt dat een leverancier voor een gesloten poort staat of dat niemand controleert of het afgesproken werk is uitgevoerd.","De beheerder kan toegang en terugkoppeling organiseren; vakinhoudelijk specialistisch werk blijft bij de betreffende uitvoerder. Jij houdt vooraf controle over opdracht en kosten."]},{"title":"Bereid eigen gebruik of verhuur ruim op tijd voor","paragraphs":["Een finca heeft vaak meer voorbereiding nodig vóór aankomst: woning openen en controleren, schoonmaak, buitenruimte nalopen en technische systemen testen. Plan dit niet op de ochtend van aankomst.","Wanneer je de finca wilt verhuren, moeten daarnaast presentatie, inventaris, gasteninformatie, bereikbaarheid en toepasselijke verhuurvoorwaarden op orde zijn."]}],"faqs":[["Wat valt onder finca-beheer?","Dat kan bestaan uit woning- en terreinchecks, sleutelbeheer, toegang voor leveranciers en onderhoudscoördinatie."],["Doen jullie zelf tuin- en zwembadonderhoud?","De uitvoering gebeurt door passende vakmensen; lokale coördinatie kan onderdeel zijn van het beheer."],["Kan finca-beheer zonder verhuur?","Ja. Beheer op afstand kan volledig losstaan van verhuur."],["Hoe vaak moet een finca worden gecontroleerd?","Dat hangt af van perceel, installaties, seizoen en leegstandsduur."],["Kunnen jullie de finca vóór mijn aankomst controleren?","Ja, een aankomstcheck en aanvullende voorbereiding kunnen worden ingepland."]]}
 ,
-{"slug":"finca-tuin-zwembad-controle-alhaurin-el-grande","type":"gids","eyebrow":"Praktische gids voor finca-eigenaren","title":"Tuin, zwembad en installaties van je finca in Alhaurín controleren","seoTitle":"Finca controleren Alhaurín | Tuin en zwembad","description":"Checklist voor eigenaren van een finca in Alhaurín el Grande: tuin, zwembad, irrigatie, pompen, toegang en lokale opvolging tijdens afwezigheid.","intro":"Bij een finca stopt de woningcontrole niet bij de voordeur. Tuin, zwembad, irrigatie, pompen, toegangspoort en bijgebouwen hebben ieder hun eigen risico’s. Een vaste buitenronde maakt beheer op afstand overzichtelijker.","sections":[{"title":"Verdeel het terrein in vaste controlezones","paragraphs":["Werk steeds dezelfde route af: toegang en omheining, woning, terras, tuin, zwembad, technische ruimte en bijgebouwen. Zo wordt een open poort, lekkende leiding of afwijkend waterniveau minder snel overgeslagen.","Rond Alhaurín el Grande verschillen percelen sterk in helling, beplanting en bereikbaarheid. Leg risicoplekken vast, zoals lage delen waar water blijft staan, droge begroeiing bij installaties of een lastig bereikbare pomp."],"bullets":["Poort, sloten en omheining","Irrigatieleidingen en zichtbare lekkage","Zwembadniveau en technische ruimte","Bomen, droge begroeiing en stormschade"]},{"title":"Controleer irrigatie en waterverbruik","paragraphs":["Een kapotte druppelaar of gesprongen leiding kan ongemerkt veel water verbruiken. Controleer natte plekken, ongewoon droge zones, drukverschil en de planning van het irrigatiesysteem.","Pas instellingen aan het seizoen en de beplanting aan, bij voorkeur met de tuinman of installateur. Een beheerder kan toegang en terugkoppeling verzorgen, maar technische wijzigingen moeten duidelijk worden vastgelegd."]},{"title":"Maak zwembadcontrole meetbaar","paragraphs":["Kijk niet alleen of het water helder oogt. Noteer waterniveau, circulatie, zichtbare vervuiling en meldingen van pomp of doseersysteem. Chemische waarden en technisch onderhoud horen bij een zwembadprofessional.","Controleer na wind of storm extra op bladeren, takken en mogelijke blokkades. Bij een probleem moet duidelijk zijn wie de zwembadpartij benadert en of de installatie veilig kan blijven draaien."]},{"title":"Plan seizoenswerk en noodtoegang vooraf","paragraphs":["Droogte, hitte, regen en wind vragen ieder andere aandacht. Maak vóór vertrek een kalender voor snoeiwerk, zwembadservice, irrigatiecontrole en inspecties na uitzonderlijk weer.","Leg sleutels, poortcodes en contactpersonen centraal vast. Een lokaal aanspreekpunt kan leveranciers begeleiden en na werkzaamheden controleren of terrein en woning correct zijn afgesloten."]}],"faqs":[["Hoe vaak moet een finca worden gecontroleerd?","Dat hangt af van seizoen, terrein, installaties en leegstandsduur. Voor tuin en zwembad gelden vaak andere intervallen dan voor de woning."],["Voert de woningbeheerder zwembadonderhoud uit?","Specialistisch zwembadonderhoud wordt doorgaans door een zwembadprofessional uitgevoerd; de beheerder kan toegang en opvolging coördineren."],["Kan het irrigatiesysteem op afstand worden aangepast?","Dat hangt af van het systeem. Wijzigingen moeten worden afgestemd en gecontroleerd."],["Worden bijgebouwen ook meegenomen?","Dat kan wanneer ze expliciet in de controlelijst en toegangsafspraken zijn opgenomen."],["Kan finca-beheer zonder verhuur?","Ja, controle, sleutelbeheer en leverancierscoördinatie kunnen los van verhuur worden afgesproken."]]}
+{"slug":"finca-tuin-zwembad-controle-alhaurin-el-grande","type":"gids","eyebrow":"Praktische gids voor finca-eigenaren","title":"Tuin, zwembad en installaties van je finca in Alhaurín controleren","seoTitle":"Finca controleren Alhaurín | Tuin en zwembad","description":"Checklist voor eigenaren van een finca in Alhaurín el Grande: tuin, zwembad, irrigatie, pompen, toegang en lokale opvolging tijdens afwezigheid.","intro":"Bij een finca stopt de woningcontrole niet bij de voordeur. Tuin, zwembad, irrigatie, pompen, toegangspoort en bijgebouwen hebben ieder hun eigen risico’s. Een vaste buitenronde maakt beheer op afstand overzichtelijker.","sections":[{"title":"Verdeel het terrein in vaste controlezones","paragraphs":["Werk steeds dezelfde route af: toegang en omheining, woning, terras, tuin, zwembad, technische ruimte en bijgebouwen. Zo wordt een open poort, lekkende leiding of afwijkend waterniveau minder snel overgeslagen.","Rond Alhaurín el Grande verschillen percelen sterk in helling, beplanting en bereikbaarheid. Leg risicoplekken vast, zoals lage delen waar water blijft staan, droge begroeiing bij installaties of een lastig bereikbare pomp."],"bullets":["Poort, sloten en omheining","Irrigatieleidingen en zichtbare lekkage","Zwembadniveau en technische ruimte","Bomen, droge begroeiing en stormschade"]},{"title":"Controleer irrigatie en waterverbruik","paragraphs":["Een kapotte druppelaar of gesprongen leiding kan ongemerkt veel water verbruiken. Controleer natte plekken, ongewoon droge zones, drukverschil en de planning van het irrigatiesysteem.","Pas instellingen aan het seizoen en de beplanting aan, bij voorkeur met de tuinman of installateur. Een beheerder kan toegang en terugkoppeling verzorgen, maar technische wijzigingen moeten duidelijk worden vastgelegd."]},{"title":"Maak zwembadcontrole meetbaar","paragraphs":["Kijk niet alleen of het water helder oogt. Noteer waterniveau, circulatie, zichtbare vervuiling en meldingen van pomp of doseersysteem. Chemische waarden en technisch onderhoud horen bij een zwembadprofessional.","Controleer na wind of storm extra op bladeren, takken en mogelijke blokkades. Bij een probleem moet duidelijk zijn wie de zwembadpartij benadert en of de installatie veilig kan blijven draaien."]},{"title":"Plan seizoenswerk en noodtoegang vooraf","paragraphs":["Droogte, hitte, regen en wind vragen ieder andere aandacht. Maak vóór vertrek een kalender voor snoeiwerk, zwembadservice, irrigatiecontrole en inspecties na uitzonderlijk weer.","Leg sleutels, poortcodes en contactpersonen centraal vast. Een lokaal aanspreekpunt kan leveranciers begeleiden en na werkzaamheden controleren of terrein en woning correct zijn afgesloten."]}],"faqs":[["Hoe vaak moet een finca worden gecontroleerd?","Dat hangt af van seizoen, terrein, installaties en leegstandsduur. Voor tuin en zwembad gelden vaak andere intervallen dan voor de woning."],["Voert de woningbeheerder zwembadonderhoud uit?","Specialistisch zwembadonderhoud wordt doorgaans door een zwembadprofessional uitgevoerd; de beheerder kan toegang en opvolging coördineren."],["Kan het irrigatiesysteem op afstand worden aangepast?","Dat hangt af van het systeem. Wijzigingen moeten worden afgestemd en gecontroleerd."],["Worden bijgebouwen ook meegenomen?","Dat kan wanneer ze expliciet in de controlelijst en toegangsafspraken zijn opgenomen."],["Kan finca-beheer zonder verhuur?","Ja, controle, sleutelbeheer en leverancierscoördinatie kunnen los van verhuur worden afgesproken."]]},
+{
+  "slug": "water-stroom-installaties-finca-alhaurin-el-grande",
+  "type": "gids",
+  "eyebrow": "Praktische gids voor finca-eigenaren",
+  "title": "Water, stroom en technische installaties van je finca beheren",
+  "seoTitle": "Installaties finca Alhaurín | Beheer op afstand",
+  "description": "Beheer water, stroom, pompen en technische installaties van je finca in Alhaurín el Grande tijdens afwezigheid met een duidelijke controlelijst.",
+  "intro": "Een finca kan afhankelijk zijn van pompen, tanks, irrigatie en installaties die anders werken dan in een stadswoning. Zonder vast overzicht is bij een storing niet direct duidelijk wat normaal is en welke specialist nodig is.",
+  "sections": [
+    {
+      "title": "Maak een technische plattegrond",
+      "paragraphs": [
+        "Leg vast waar groepenkast, waterafsluiters, pomp, tank, boiler, irrigatiebesturing en eventuele zonnepanelen of noodvoorziening zitten. Voeg duidelijke foto’s en normale standen toe.",
+        "Rond Alhaurín el Grande kunnen percelen langgerekt zijn en leidingen door tuin of bijgebouwen lopen. Markeer daarom ook buitenafsluiters en kwetsbare leidingtrajecten."
+      ],
+      "bullets": [
+        "Hoofdschakelaars en groepen",
+        "Waterbron, tank en afsluiters",
+        "Pompen en irrigatie",
+        "Boiler, zonnepanelen en internet"
+      ]
+    },
+    {
+      "title": "Controleer op afwijkend verbruik en geluid",
+      "paragraphs": [
+        "Een pomp die vaker start, een natte plek of veranderde meterstand kan op lekkage wijzen. Noteer waarnemingen en vergelijk met eerdere controles.",
+        "Schakel apparatuur niet willekeurig uit. Sommige installaties beschermen zwembad, waterdruk of beveiliging en vereisen een vaste stand."
+      ]
+    },
+    {
+      "title": "Leg de juiste specialist per installatie vast",
+      "paragraphs": [
+        "Bewaar contactgegevens en onderhoudshistorie per systeem. Een elektricien, loodgieter, pomptechnicus en zwembadpartij hebben ieder een ander vakgebied.",
+        "Een lokale beheerder kan toegang geven, de situatie documenteren en na werkzaamheden controleren, maar vervangt geen technische diagnose."
+      ]
+    },
+    {
+      "title": "Plan seizoens- en noodcontroles",
+      "paragraphs": [
+        "Controleer vóór hitte, zware regen of langere leegstand of instellingen en afvoeren passen bij het seizoen. Leg vast wanneer extra inspectie nodig is.",
+        "Maak noodbevoegdheden concreet: wat mag direct worden afgesloten, welke kostenlimiet geldt en wie ontvangt de terugkoppeling."
+      ]
+    }
+  ],
+  "faqs": [
+    [
+      "Moet stroom tijdens afwezigheid uit?",
+      "Dat hangt af van installaties die actief moeten blijven; leg dit per finca vast."
+    ],
+    [
+      "Hoe herken ik een lekkende buitenleiding?",
+      "Natte plekken, drukverlies, pompactiviteit of afwijkend verbruik kunnen signalen zijn."
+    ],
+    [
+      "Kan een beheerder een technicus begeleiden?",
+      "Ja, wanneer toegang en opdracht zijn vastgelegd."
+    ],
+    [
+      "Is dit een technische keuring?",
+      "Nee, een beheercontrole signaleert; diagnose en herstel horen bij een specialist."
+    ],
+    [
+      "Kan installatiebeheer zonder verhuur?",
+      "Ja, dit is onderdeel van lokaal finca- en vastgoedbeheer."
+    ]
+  ]
+}
 ];
 export const contentBySlug=Object.fromEntries(contentPages.map(p=>[p.slug,p]));
