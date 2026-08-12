@@ -200,6 +200,13 @@ Object.assign(relatedBySlug, {
   "schoonmaak-onderhoud-alhaurin-el-grande": ["finca-tuin-zwembad-controle-alhaurin-el-grande", ...(relatedBySlug["schoonmaak-onderhoud-alhaurin-el-grande"] ?? []).filter((slug) => slug !== "finca-tuin-zwembad-controle-alhaurin-el-grande")].slice(0, 6),
 });
 
+Object.assign(relatedBySlug, {
+  "water-stroom-installaties-finca-alhaurin-el-grande": ["vastgoedbeheer-alhaurin-el-grande","tweede-woning-beheer-alhaurin-el-grande","finca-beheren-op-afstand-alhaurin-el-grande","finca-tuin-zwembad-controle-alhaurin-el-grande","kosten-verhuurbeheer-alhaurin-el-grande"],
+  "vastgoedbeheer-alhaurin-el-grande": ["water-stroom-installaties-finca-alhaurin-el-grande", ...(relatedBySlug["vastgoedbeheer-alhaurin-el-grande"] ?? []).filter((slug) => slug !== "water-stroom-installaties-finca-alhaurin-el-grande")].slice(0, 6),
+  "tweede-woning-beheer-alhaurin-el-grande": ["water-stroom-installaties-finca-alhaurin-el-grande", ...(relatedBySlug["tweede-woning-beheer-alhaurin-el-grande"] ?? []).filter((slug) => slug !== "water-stroom-installaties-finca-alhaurin-el-grande")].slice(0, 6),
+  "finca-beheren-op-afstand-alhaurin-el-grande": ["water-stroom-installaties-finca-alhaurin-el-grande", ...(relatedBySlug["finca-beheren-op-afstand-alhaurin-el-grande"] ?? []).filter((slug) => slug !== "water-stroom-installaties-finca-alhaurin-el-grande")].slice(0, 6),
+});
+
 const contentVisualBySlug: Record<string, { src: string; alt: string }> = {
   "vakantieverhuur-alhaurin-el-grande": {
     src: "/luxe-woning-alhaurin-el-grande-zeezicht.webp",
