@@ -192,7 +192,7 @@ function LocalizedHome() {
     })),
   };
   return (
-    <main>
+    <main lang="en">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
@@ -696,5 +696,5 @@ function LocalizedHome() {
   );
 }
 
-export const metadata = { keywords: ["property management Alhaurín el Grande","holiday rental management Alhaurín el Grande","Airbnb management Alhaurín el Grande","key holding Alhaurín el Grande","home checks Alhaurín el Grande","second home management Alhaurín el Grande","villa management Alhaurín el Grande","apartment management Alhaurín el Grande"], title: "Property Management Alhaurín el Grande | Holiday Rental & Key Holding", description: "Local property management in Alhaurín el Grande for international owners: holiday rental management, Airbnb management, key holding, home checks, cleaning and maintenance.", alternates: { canonical: "/en/", languages: { "nl-NL": "/", en: "/en/", es: "/es/", "x-default": "/" } }, openGraph: { locale: "en_GB", url: "/en/", type: "website" as const } };
+export const metadata = { robots: { index: false, follow: true }, keywords: ["property management Alhaurín el Grande","holiday rental management Alhaurín el Grande","Airbnb management Alhaurín el Grande","key holding Alhaurín el Grande","home checks Alhaurín el Grande","second home management Alhaurín el Grande","villa management Alhaurín el Grande","apartment management Alhaurín el Grande"], title: "Property Management Alhaurín el Grande | Holiday Rental & Key Holding", description: "Local property management in Alhaurín el Grande for international owners: holiday rental management, Airbnb management, key holding, home checks, cleaning and maintenance.", alternates: { canonical: "/en/", languages: { "nl-NL": "/", en: "/en/", es: "/es/", "x-default": "/" } }, openGraph: { locale: "en_GB", url: "/en/", type: "website" as const } };
 export default LocalizedHome;
