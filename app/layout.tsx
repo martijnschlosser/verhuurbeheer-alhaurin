@@ -59,7 +59,7 @@ export const metadata: Metadata = {
       "max-video-preview": -1,
     },
   },
-  icons: { icon: "/favicon-alhaurin.png", apple: "/vbs-logo-alhaurin.webp" },
+  icons: { icon: "/favicon-alhaurin.png", apple: "/verhuurbeheer-alhaurin-logo.webp" },
   manifest: "/manifest.webmanifest",
   category: "vastgoedbeheer",
   verification: siteConfig.analytics.searchConsoleVerification

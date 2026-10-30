@@ -148,7 +148,7 @@ function LocalizedHome() {
     ],
     telephone: siteConfig.contact.phone,
     url: absoluteUrl("/es"),
-    logo: absoluteUrl("/vbs-logo-alhaurin.webp"),
+    logo: absoluteUrl("/verhuurbeheer-alhaurin-logo.webp"),
     image: absoluteUrl("/terras-zonsondergang-alhaurin-el-grande.webp"),
     knowsLanguage: ["nl", "en", "es"],
     knowsAbout: [
@@ -201,7 +201,7 @@ function LocalizedHome() {
           aria-label="Gestión de propiedades Alhaurín el Grande – Home"
         >
           <img
-            src="/vbs-logo-alhaurin.webp"
+            src="/verhuurbeheer-alhaurin-logo.webp"
             alt="Gestión de propiedades Alhaurín el Grande logo"
             width="54"
             height="54"
@@ -554,7 +554,7 @@ function LocalizedHome() {
         <div className="footer-brand">
           <a className="logo-lockup" href="/" aria-label="Home">
             <img
-              src="/vbs-logo-alhaurin.webp"
+              src="/verhuurbeheer-alhaurin-logo.webp"
               alt="Gestión de propiedades Alhaurín el Grande"
               width={640}
               height={640}

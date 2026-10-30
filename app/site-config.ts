@@ -23,7 +23,7 @@ export const siteConfig = {
     ],
   },
   assets: {
-    logo: "/vbs-logo-alhaurin.webp",
+    logo: "/verhuurbeheer-alhaurin-logo.webp",
     hero: "/alhaurin-el-grande-hero.webp",
     social: "/luxe-woning-alhaurin-el-grande-zeezicht.webp",
     signup: "/zonnig-terras-zeezicht-alhaurin-el-grande.webp",
