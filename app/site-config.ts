@@ -2,8 +2,8 @@ export const siteConfig = {
   template: {
     version: "1.0.0",
     citySlug: "alhaurin-el-grande",
-    leadPath: "/woning-aanmelden/",
-    thankYouPath: "/bedankt/",
+    leadPath: "/woning-aanmelden",
+    thankYouPath: "/bedankt",
     sourceWebsite: "verhuurbeheeralhaurinelgrande.nl",
   },
   brand: {
