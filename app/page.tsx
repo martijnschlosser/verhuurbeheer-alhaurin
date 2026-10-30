@@ -140,7 +140,6 @@ export default function Home() {
     parentOrganization: {
       "@type": "Organization",
       name: "Verhuurbeheer Spanje",
-      url: "https://www.verhuurbeheerspanje.nl/",
     },
     areaServed: [
       { "@type": "City", name: "Alhaurín el Grande" },
@@ -156,7 +155,6 @@ export default function Home() {
     logo: absoluteUrl("/vbs-logo-alhaurin.webp"),
     image: absoluteUrl("/luxe-woning-alhaurin-el-grande-zeezicht.webp"),
     sameAs: [
-      siteConfig.brand.parentUrl,
       siteConfig.social.instagram,
       siteConfig.social.facebook,
     ],
@@ -663,9 +661,9 @@ export default function Home() {
           </a>
           <p>
             Verhuurbeheer Alhaurín el Grande is onderdeel van{" "}
-            <a href="https://www.verhuurbeheerspanje.nl/">
+            <span>
               Verhuurbeheer Spanje
-            </a>
+            </span>
             .
           </p>
           <div className="social-links">

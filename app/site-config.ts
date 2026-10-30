@@ -9,7 +9,6 @@ export const siteConfig = {
   brand: {
     name: "Verhuurbeheer Alhaurín el Grande",
     legalName: "Verhuurbeheer Spanje",
-    parentUrl: "https://www.verhuurbeheerspanje.nl/",
   },
   location: {
     city: "Alhaurín el Grande",
