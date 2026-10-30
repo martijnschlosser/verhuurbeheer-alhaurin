@@ -13,9 +13,8 @@ import {
 } from "lucide-react";
 import {
   absoluteUrl,
-  emailHref,
+  phoneHref,
   leadHref,
-  leadFormAction,
   siteConfig,
   whatsappHref,
 } from "./site-config";
@@ -25,25 +24,25 @@ const homepageTeam = [
     name: "Martijn",
     role: "Relatiemanager",
     image: "/martijn-verhuurbeheer-alhaurin-el-grande.webp",
-    alt: "Martijn, relatiemanager van Verhuurbeheer Spanje aan de Costa del Sol",
+    alt: "Martijn, relatiemanager van Verhuurbeheer Alhaurín el Grande aan de Costa del Sol",
   },
   {
     name: "Geert",
     role: "Manager Bouw",
     image: "/geert-vastgoedbeheer-alhaurin-el-grande.webp",
-    alt: "Geert, manager bouw en vastgoedbeheer bij Verhuurbeheer Spanje",
+    alt: "Geert, manager bouw en vastgoedbeheer bij Verhuurbeheer Alhaurín el Grande",
   },
   {
     name: "Sophie",
     role: "Backoffice",
     image: "/sophie-alhaurin-el-grande.webp",
-    alt: "Sophie, Nederlandstalig aanspreekpunt bij Verhuurbeheer Spanje",
+    alt: "Sophie, Nederlandstalig aanspreekpunt bij Verhuurbeheer Alhaurín el Grande",
   },
   {
     name: "Päivi",
     role: "Administratie",
     image: "/paivi-administratie-verhuurbeheer.webp",
-    alt: "Päivi van de administratie van Verhuurbeheer Spanje",
+    alt: "Päivi van de administratie van Verhuurbeheer Alhaurín el Grande",
   },
 ];
 
@@ -134,13 +133,8 @@ export default function Home() {
     "@type": ["Organization", "ProfessionalService"],
     "@id": `${siteConfig.domain}/#organization`,
     name: siteConfig.brand.name,
-    legalName: siteConfig.brand.legalName,
     description:
       "Nederlandstalig fullservice verhuurbeheer, vakantieverhuurbeheer en vastgoedbeheer voor woningeigenaren in Alhaurín el Grande.",
-    parentOrganization: {
-      "@type": "Organization",
-      name: "Verhuurbeheer Spanje",
-    },
     areaServed: [
       { "@type": "City", name: "Alhaurín el Grande" },
       { "@type": "Place", name: "Alhaurín el Grande Centrum" },
@@ -150,14 +144,10 @@ export default function Home() {
       { "@type": "City", name: "Alhaurín de la Torre" },
       { "@type": "Place", name: "Valle del Guadalhorce" },
     ],
-    email: siteConfig.contact.email,
+    telephone: siteConfig.contact.phone,
     url: absoluteUrl(),
     logo: absoluteUrl("/vbs-logo-alhaurin.webp"),
     image: absoluteUrl("/luxe-woning-alhaurin-el-grande-zeezicht.webp"),
-    sameAs: [
-      siteConfig.social.instagram,
-      siteConfig.social.facebook,
-    ],
     knowsLanguage: ["nl", "en", "es"],
     knowsAbout: [
       "Verhuurbeheer Alhaurín el Grande",
@@ -659,31 +649,8 @@ export default function Home() {
               Verhuurbeheer <b>Alhaurín el Grande</b>
             </span>
           </a>
-          <p>
-            Verhuurbeheer Alhaurín el Grande is onderdeel van{" "}
-            <span>
-              Verhuurbeheer Spanje
-            </span>
-            .
-          </p>
-          <div className="social-links">
-            <a
-              href={siteConfig.social.instagram}
-              target="_blank"
-              rel="noopener noreferrer"
-              aria-label="Verhuurbeheer Spanje op Instagram"
-            >
-              <Instagram aria-hidden="true" /> Instagram
-            </a>
-            <a
-              href={siteConfig.social.facebook}
-              target="_blank"
-              rel="noopener noreferrer"
-              aria-label="Verhuurbeheer Spanje op Facebook"
-            >
-              <Facebook aria-hidden="true" /> Facebook
-            </a>
-          </div>
+          
+          
         </div>
         <div>
           <b>Diensten</b>
@@ -708,7 +675,7 @@ export default function Home() {
           <a href={whatsappHref()}>
             WhatsApp
           </a>
-          <a href={emailHref}>E-mail</a>
+          <a href={phoneHref}>Telefoon</a>
           <small>© 2026 · Alhaurín el Grande · Costa del Sol</small>
         </div>
       </footer>
